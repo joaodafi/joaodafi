@@ -1,6 +1,8 @@
 ### 🚧 Profile README Under Construction 🚧
 Ignore everything in this read.md for now, thankyou...
 
+[![Github Badge](https://img.shields.io/badge/Github-black?style=flat&logo=Github&logoColor=white&link=https://github.com/joaodafi)](https://github.com/joaodafi)
+
 [![joaodafi's Github Stats](https://github-readme-stats.vercel.app/api?username=joaodafi&hide_border=true&theme=vue&show_icons=true&count_private=true&include_all_commits=true&custom_title=My%20Stats)](https://github.com/joaodafi?tab=repositories)
 
 [![joaodafi's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joaodafi&hide_border=true&theme=vue&langs_count=10)](https://github.com/joaodafi?tab=repositories)
