@@ -1,5 +1,7 @@
 ### 🚧 Profile README Under Construction 🚧
 
+[![João Miguel Belletti Belizario](https://github-readme-stats.vercel.app/api?username=joaodafi)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **joaodafi/joaodafi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
