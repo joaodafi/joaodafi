@@ -1,4 +1,4 @@
-### 🚧 Profile READ.md Under Construction 🚧
+### 🚧 Profile README Under Construction 🚧
 
 <!--
 **joaodafi/joaodafi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
