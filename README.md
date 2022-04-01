@@ -1,6 +1,8 @@
 ### 🚧 Profile README Under Construction 🚧
 
-[![Joaodafi's Github Stats](https://github-readme-stats.vercel.app/api?username=joaodafi&show_icons=true&hide=issues&count_private=true&include_all_commits=true)](https://github.com/joaodafi?tab=repositories)
+[![joaodafi's Github Stats](https://github-readme-stats.vercel.app/api?username=joaodafi&hide_border=true&theme=vue&show_icons=true&count_private=true&include_all_commits=true&custom_title=My%20Stats)](https://github.com/joaodafi?tab=repositories)
+
+[![joaodafi's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joaodafi&hide_border=true&theme=vue&langs_count=10)](https://github.com/joaodafi?tab=repositories)
 
 <!--
 **joaodafi/joaodafi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
