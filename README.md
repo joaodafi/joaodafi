@@ -1,7 +1,7 @@
-### 🚧 Profile README Under Construction 🚧
-Ignore everything in this read.md for now, thankyou...
+# 🚧 Profile README Under Construction 🚧
+## Ignore everything in this read.md for now, thankyou...
 
-💬 Need to talk with me?
+### 💬 Need to talk with me?
 
 ![Discord Badge + nick](https://img.shields.io/badge/Discord-ID%3A%20joaodafi%230775-black?style=flat&logo=discord&logoColor=white&labelColor=7289d9)
 
@@ -10,7 +10,7 @@ Ignore everything in this read.md for now, thankyou...
 
 ---
 
-📰 Find me in **Social Medial** and **Forums**
+### 📰 Find me in **Social Medial** and **Forums**
 
 [![Instagram Badge](https://img.shields.io/badge/Instagram-white?style=flat&logo=instagram&logoColor=black&link=https://www.instagram.com/joao.miguel.bb/)](https://www.instagram.com/joao.miguel.bb/)
 
@@ -20,9 +20,9 @@ Ignore everything in this read.md for now, thankyou...
 
 ---
 
-Most of my public stuff is here:
+### 🗄️ Most of my public stuff is here:
 
-[![Github Badge](https://img.shields.io/badge/Github-black?style=flat&logo=Github&logoColor=white&link=https://github.com/joaodafi)](https://github.com/joaodafi)
+[![Github Badge](https://img.shields.io/badge/Github-black?style=flat&logo=Github&logoColor=white&link=https://github.com/joaodafi?tab=repositoriesi)](https://github.com/joaodafi?tab=repositories)
 [![Unity Play Badge](https://img.shields.io/badge/Unity%20Play-black?style=flat&logo=unity&logoColor=white&link=https://play.unity.com/u/jomiguel)](https://play.unity.com/u/jomiguel)
 
 ---
