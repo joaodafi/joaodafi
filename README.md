@@ -1,5 +1,4 @@
 # 🚧 Profile README Under Construction 🚧
-## Ignore everything in this read.md for now, thankyou...
 
 ### 💬 Need to talk with me?
 
