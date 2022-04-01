@@ -1,4 +1,5 @@
 ### 🚧 Profile README Under Construction 🚧
+Ignore everything in this read.md for now, thankyou...
 
 [![joaodafi's Github Stats](https://github-readme-stats.vercel.app/api?username=joaodafi&hide_border=true&theme=vue&show_icons=true&count_private=true&include_all_commits=true&custom_title=My%20Stats)](https://github.com/joaodafi?tab=repositories)
 
