@@ -3,7 +3,7 @@ I live in Brazil, i'm 28 years old currently i'm studying full-time at [**École
 
 I’m interested in History, Economy and Technology wiht a soft spot for Video Games, especially those involving procedural generation and simulation.
 
-In my free time i'm also learing about **Unity Game Engine** and **Game Design**, by the way, would be great to find someone that learn together.
+In my free time i'm also learing about **Unity Game Engine** and **Game Design**, by the way, would be great to find someone to learn together.
 
 ---
 
