@@ -5,7 +5,7 @@
 ![Discord Badge + nick](https://img.shields.io/badge/Discord-ID%3A%20joaodafi%230775-black?style=flat&logo=discord&logoColor=white&labelColor=7289d9)
 
 ![Outlook email Badge](https://img.shields.io/badge/Outlook-blue?style=flat&logo=microsoftoutlook&link=mailto:joao.miguel.bb@hotmail.com)
-![Gmail Badge](https://img.shields.io/badge/Gmail-FF0000?style=flat&logo=gmail&logoColor=white&link=mailto:joao.itaoca@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-FF0000?style=flat&logo=gmail&logoColor=white&link=mailto:joao.itaoca@gmail.com)](mailto:joao.itaoca@gmail.com)
 
 ---
 
