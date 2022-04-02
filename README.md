@@ -19,7 +19,7 @@
 
 ---
 
-### 🗄️ Most of my public stuff is here:
+### 🗄️ Most of my public stuff is here
 
 [![Github Badge](https://img.shields.io/badge/Github-black?style=flat&logo=Github&logoColor=white&link=https://github.com/joaodafi?tab=repositoriesi)](https://github.com/joaodafi?tab=repositories)
 [![Unity Play Badge](https://img.shields.io/badge/Unity%20Play-black?style=flat&logo=unity&logoColor=white&link=https://play.unity.com/u/jomiguel)](https://play.unity.com/u/jomiguel)
