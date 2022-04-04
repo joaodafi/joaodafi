@@ -1,7 +1,7 @@
 # Hello, welcome to my Github!
 I live in Brazil, i'm 28 years old and currently, i'm studying full-time at [**École 42**](https://42.fr/en/homepage/), salutations cadet 👨‍🚀 [![42 + ID badge](https://img.shields.io/badge/Intra-ID%3A%20jomiguel-00babc?style=flat&logo=42&labelColor=292d39&link=https://profile.intra.42.fr/users/jomiguel)](https://profile.intra.42.fr/users/jomiguel)
 
-I’m interested in History, Economy and Technology wiht a soft spot for Video Games, especially those involving procedural generation and simulation.
+I’m interested in History, Economy and Technology with a soft spot for Video Games, especially those involving procedural generation and simulation.
 
 In my free time i'm also learing about **Unity Game Engine** and **Game Design**, by the way, would be great to find someone to learn together.
 
