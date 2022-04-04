@@ -8,7 +8,7 @@ In my free time i'm also learing about **Unity Game Engine** and **Game Design**
 ---
 
 [![joaodafi's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joaodafi&hide_border=true&theme=vue&langs_count=10)](https://github.com/joaodafi?tab=repositories)
-[![joaodafi's Github Stats](https://github-readme-stats.vercel.app/api?username=joaodafi&hide_border=true&theme=vue&show_icons=true&count_private=true&include_all_commits=true&custom_title=My%20Stats)](https://github.com/joaodafi?tab=repositories)
+[![joaodafi's Github Stats](https://github-readme-stats.vercel.app/api?username=joaodafi&hide_border=true&theme=vue&show_icons=true&count_private=true&include_all_commits=true&count_private=true&custom_title=My%20Stats)](https://github.com/joaodafi?tab=repositories)
 
 ---
 
